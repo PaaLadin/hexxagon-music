@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist_final/
+build/
+android/
+*.bak*
+__pycache__/
+runtime/
